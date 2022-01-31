@@ -108,7 +108,7 @@ h4 span{
     margin: 3vh 0;
 }
 
-@media (min-width: 992px){
+@media (min-width: 991px){
     .infos {
         margin-top: 10vh;
     }
