@@ -19,8 +19,8 @@ fetch("pilotos.json")
             </div>
             <div class="card-body">
             <h4 class="card-title"> ${piloto.name}  <span> ${piloto.age} anos</span></h4> 
-            <h5> Cidade: ${piloto.city}</h5> 
-            <h5> Peso: ${piloto.weight}kg</h5>
+            <h5> <span> Cidade:</span> ${piloto.city}</h5> 
+            <h5> <span>Peso:</span> ${piloto.weight}kg</h5>
             <h4 class = "points"> Pontos: ${piloto.points}</h4>
             </div>
         </div> 

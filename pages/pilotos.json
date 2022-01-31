@@ -4,7 +4,7 @@
         "name":"Anderson Cordeiro",
         "age": 33,
         "weight":78,
-        "city": "itu",
+        "city": "Itu",
         "points": 0
     },
     {
@@ -13,25 +13,25 @@
         "name":"Vanderlei Meneghin",
         "age": 33,
         "weight":78,
-        "city": "itu",
+        "city": "Itu",
         "points": 0
     },
     {
        "photo":"../imgs/pilotos/anderson.jpg",
 
-        "name":"Clayton franquini",
+        "name":"Clayton Franquini",
         "age": 33,
         "weight":78,
-        "city": "itu",
+        "city": "Itu",
         "points": 0
     },
     {
         "photo":"../imgs/pilotos/anderson.jpg",
 
-        "name":"Rafael sgarbi",
+        "name":"Rafael Sgarbi",
         "age": 33,
         "weight":78,
-        "city": "itu",
+        "city": "Itu",
         "points": 0
     },
     {
@@ -39,7 +39,7 @@
         "name":"Renato Scavacini",
         "age": 33,
         "weight":78,
-        "city": "itu",
+        "city": "Itu",
         "points": 0
     },
     {
@@ -48,7 +48,7 @@
         "name":"José Ferri",
         "age": 33,
         "weight":78,
-        "city": "itu",
+        "city": "Itu",
         "points": 0
     },
     {
@@ -57,7 +57,7 @@
         "name":"Adilson Alves",
         "age": 33,
         "weight":78,
-        "city": "itu",
+        "city": "Itu",
         "points": 0
     },
     {
@@ -66,7 +66,7 @@
         "name":"Rodrigo Ruiz",
         "age": 33,
         "weight":78,
-        "city": "itu",
+        "city": "Itu",
         "points": 0
     },
     {
@@ -75,7 +75,7 @@
         "name":"Nicholas Kyriazi",
         "age": 33,
         "weight":78,
-        "city": "itu",
+        "city": "Itu",
         "points": 0
     },
     {
@@ -84,16 +84,16 @@
         "name":"Adriano Alves",
         "age": 33,
         "weight":78,
-        "city": "itu",
+        "city": "Itu",
         "points": 0
     },
     {
         "photo":"../imgs/pilotos/anderson.jpg",
 
-        "name":"Wagner sgarbi",
+        "name":"Wagner Sgarbi",
         "age": 33,
         "weight":78,
-        "city": "itu",
+        "city": "Itu",
         "points": 0
     },
     {
@@ -102,7 +102,7 @@
         "name":"Gabriel Rosa",
         "age": 33,
         "weight":78,
-        "city": "itu",
+        "city": "Itu",
         "points": 0
     },
     {
@@ -111,7 +111,7 @@
         "name":"Henrique Moreno",
         "age": 33,
         "weight":78,
-        "city": "itu",
+        "city": "Itu",
         "points": 0
     },
     {
@@ -120,7 +120,7 @@
         "name":"Rodrigo Moreno",
         "age": 33,
         "weight":78,
-        "city": "itu",
+        "city": "Itu",
         "points": 0
     },
     {
@@ -129,7 +129,7 @@
         "name":"Lucas Alves",
         "age": 33,
         "weight":78,
-        "city": "itu",
+        "city": "Itu",
         "points": 0
     }
 
