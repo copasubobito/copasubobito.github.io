@@ -132,6 +132,12 @@ h4 span, h5 span{
         position: relative;
         overflow:hidden
     }
+
+    .btn-text{
+        font-size: 1.5rem;
+        min-width: 10vw;
+
+    }
     
 }
 .navbar-brand img{
@@ -166,7 +172,9 @@ display: none;
     -webkit-transform: skew(-20deg);
    -moz-transform: skew(-20deg);
      -o-transform: skew(-20deg);
-     margin: 0 1vw;
+     margin: 0;
+     min-width: 6vw;
+     font-size: 1.2rem;
     
 }
 
@@ -177,6 +185,7 @@ display: none;
    -moz-transform: skew(20deg);
      -o-transform: skew(20deg);
      margin-bottom: 0;
+     
 
 }
 .btn:hover {
