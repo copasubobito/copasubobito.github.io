@@ -16,7 +16,9 @@ body {
 .navbar {
     justify-content: space-between !important;
 }
-
+.navbar-nav{
+    flex-direction: row !important;
+}
 .banner{
     height: 70vh;
     background-size: cover;
@@ -29,7 +31,7 @@ body {
 }
 
 .infos{
-    margin-top: 10vh;
+
     padding-top: 30px;
 
 }
@@ -44,14 +46,15 @@ body {
     background-repeat: no-repeat;
     background-position: center;
 }
-.col-6:first-child{
+.col-12:first-child, .col-md-6:first-child{
     text-align: center;
 }
-.footer .col-6 {
+.footer .col-12, .footer .col-md-6    {
     color:whitesmoke;
+    align-items: center;
 }
 
-.footer .col-6 p{
+.footer .col-12 p,.footer .col-md-6 p{
     color:whitesmoke;
 }
 address {
@@ -66,7 +69,7 @@ top:-10vh;
 right: 0;
 }
 .carousel-item{
-    height: 70vh;
+    height: 30vh;
     width:100vw;
     position: relative;
     overflow:hidden
@@ -103,4 +106,40 @@ h4 span{
     box-shadow: 0 4px 16px rgb(0 28 126 / 12%);
     border-radius: 17px !important;
     margin: 3vh 0;
+}
+
+@media (min-width: 992px){
+    .infos {
+        margin-top: 10vh;
+    }
+    .navbar-brand img{
+
+        height: 4vh;
+        display: block !important;
+        
+        }
+    .alt-text{
+        display: none !important;
+    }
+    .carousel-item{
+        height: 70vh;
+        width:100vw;
+        position: relative;
+        overflow:hidden
+    }
+    
+}
+.navbar-brand img{
+
+width: auto;
+display: none;
+}
+.nav-item{
+    padding-right: 5px !important;
+}
+
+
+
+.alt-text{
+    display: block;
 }
