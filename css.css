@@ -1,0 +1,106 @@
+*{
+    margin:0;
+    padding:0;
+    color: black;
+}
+body {
+    background-color:#f3f3f3;
+    overflow-x: hidden;
+
+}
+
+.container .pilotos {
+    margin-top: 10vh;
+}
+
+.navbar {
+    justify-content: space-between !important;
+}
+
+.banner{
+    height: 70vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container{
+    max-width: 100vw !important;
+    padding:0 !important;
+}
+
+.infos{
+    margin-top: 10vh;
+    padding-top: 30px;
+
+}
+
+.footer{
+    padding: 5vh 0;
+    margin-top:10vh;
+    color:whitesmoke;
+    background-color:rbga(0,0,0, 0.3) !important;
+    background-image: url(imgs/footer-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.col-6:first-child{
+    text-align: center;
+}
+.footer .col-6 {
+    color:whitesmoke;
+}
+
+.footer .col-6 p{
+    color:whitesmoke;
+}
+address {
+    color:whitesmoke;
+
+}
+
+.carousel-item img{
+position: absolute;
+display: block;
+top:-10vh;
+right: 0;
+}
+.carousel-item{
+    height: 70vh;
+    width:100vw;
+    position: relative;
+    overflow:hidden
+}
+.row{
+margin-right:0 !important;
+margin-left:0 !important;
+
+}
+
+.card-img-top {
+    position: absolute;
+    display: block;
+    top:0;
+    left: 0;
+    border-radius: 17px !important;
+    }
+
+.img-holder{
+    height: 200px;
+    width:100%;
+    position: relative;
+    overflow:hidden;
+
+}
+
+h4 span{
+    color:#4c4c4c;
+    font-size: 1rem;
+}
+
+.card{
+    -webkit-box-shadow: 0 4px 16px rgb(0 28 126 / 12%);
+    box-shadow: 0 4px 16px rgb(0 28 126 / 12%);
+    border-radius: 17px !important;
+    margin: 3vh 0;
+}
