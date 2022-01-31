@@ -46,7 +46,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
 }
-.col-12:first-child, .col-md-6:first-child{
+.footer .col-12:first-child, .col-md-6:first-child{
     text-align: center;
 }
 .footer .col-12, .footer .col-md-6    {
