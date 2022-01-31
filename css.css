@@ -8,6 +8,11 @@ body {
     overflow-x: hidden;
 
 }
+@font-face {
+    font-family: EdgeRacer;
+    src: url("EdgeRacer.otf");
+    
+}
 
 .container .pilotos {
     margin-top: 10vh;
@@ -142,4 +147,43 @@ display: none;
 
 .alt-text{
     display: block;
+}
+
+.btn {
+	box-shadow: 2px 2px 6px 0px #000000;
+	background:linear-gradient(to bottom, #c9c7c9 5%, #bdbdbd 100%);
+	background-color:#c9c7c9;
+	border:3px solid #ab1919 !important;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Courier New;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 18px;
+	text-decoration:none;
+    transform: skew(20deg);
+    -webkit-transform: skew(-20deg);
+   -moz-transform: skew(-20deg);
+     -o-transform: skew(-20deg);
+     margin: 0 1vw;
+    
+}
+
+.btn-text {
+    font-family: EdgeRacer;
+    transform: skew(20deg);
+    -webkit-transform: skew(20deg);
+   -moz-transform: skew(20deg);
+     -o-transform: skew(20deg);
+     margin-bottom: 0;
+
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #bdbdbd 5%, #c9c7c9 100%);
+	background-color:#bdbdbd;
+}
+.btn:active {
+	position:relative;
+	top:1px;
 }
